@@ -11,7 +11,7 @@ export class AppComponent {
   housingLocationList: HousingLocation[] = [
     {
       name: 'Acme Fresh Start Housing',
-      city: 'Chicago',
+      city: 'Amsterdam',
       state: 'IL',
       photo: '../assets/housing-1.jpg',
       availableUnits: 4,
@@ -20,7 +20,7 @@ export class AppComponent {
     },
     {
       name: 'A113 Transitional Housing',
-      city: 'Santa Monica',
+      city: 'Rotterdam',
       state: 'CA',
       photo: '../assets/housing-2.jpg',
       availableUnits: 0,
@@ -29,7 +29,7 @@ export class AppComponent {
     },
     {
       name: 'Warm Beds Housing Support',
-      city: 'Juneau',
+      city: 'Leiden',
       state: 'AK',
       photo: '../assets/housing-3.jpg',
       availableUnits: 1,
